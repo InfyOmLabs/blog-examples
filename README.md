@@ -1,2 +1,3 @@
-# blog-examples
-InfyOm Technologies Blog Examples
+# Blog Post Example Code
+
+[InfyOm Technologies Blog](https://blog.infyom.com/) Examples
